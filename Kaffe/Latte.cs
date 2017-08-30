@@ -10,7 +10,7 @@ namespace Kaffe
     {
         public override int pris()
         {
-            return 30();
+            return 30;
         }
     }
 }
